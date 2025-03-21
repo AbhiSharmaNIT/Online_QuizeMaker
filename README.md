@@ -32,6 +32,7 @@ This interactive quiz platform includes all the requested features:
 - Simple login/register system
 - User-specific dashboard for quiz creators
 - Guest mode for taking quizzes without an account
+![Screenshot 2025-03-21 181240](https://github.com/user-attachments/assets/2991faa8-d1af-4897-ac7a-89a59a1c06b8)
 
 
 ### Analytics
