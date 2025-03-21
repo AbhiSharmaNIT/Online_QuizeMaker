@@ -1,26 +1,6 @@
 # Online_QuizeMaker
-I'll create an interactive quiz platform with HTML, CSS, and JavaScript that includes all the requested features. Since we're using only frontend technologies, we'll use localStorage to persist data.
-
-# Features Overview
-This interactive quiz platform includes all the requested features:
-
-# Quiz Creation
--> Examiners can create quizzes with multiple-choice questions
--> Each question can have multiple options with one correct answer
--> Questions can be added, removed, and edited
-
-# Quiz Taking
-Users can browse and take quizzes
-Progress tracking during quiz taking
-Immediate feedback after quiz completion
-
-Thought for 5 seconds### Interactive Quiz Platform
 
 I'll create an interactive quiz platform with HTML, CSS, and JavaScript that includes all the requested features. Since we're using only frontend technologies, we'll use localStorage to persist data.
-
-```typescriptreact project="quiz-platform"
-...
-```
 
 ## Features Overview
 
@@ -92,6 +72,4 @@ The application uses:
 - localStorage for data persistence
 
 
-Since this is a frontend-only implementation, all data is stored in the browser's localStorage. In a production environment, you would want to replace this with a proper backend database.
-
-The code is organized into modular functions for different features, making it easy to maintain and extend.
+Since this is a frontend-only implementation, all data is stored in the browser's localStorage.
