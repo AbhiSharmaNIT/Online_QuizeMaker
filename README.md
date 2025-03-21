@@ -71,5 +71,12 @@ The application uses:
 - JavaScript for functionality
 - localStorage for data persistence
 
+  
+![Screenshot 2025-03-21 180530](https://github.com/user-attachments/assets/f1f5a7d1-bc57-46ba-ad84-435c8a8dfd2e)
+![Screenshot 2025-03-21 180544](https://github.com/user-attachments/assets/8d5724b9-db76-49f6-a712-6b63fddfee2f)
+![Screenshot 2025-03-21 180551](https://github.com/user-attachments/assets/80cac503-3396-466c-9f05-19e6fcbcf0b7)
+![Screenshot 2025-03-21 180602](https://github.com/user-attachments/assets/906465fd-b6b1-4342-97d5-3cfb598af38f)
+![Screenshot 2025-03-21 180617](https://github.com/user-attachments/assets/2bddfa08-783d-46a4-a1c5-0a738a2cf694)
+![Screenshot 2025-03-21 180756](https://github.com/user-attachments/assets/da988856-7401-4b3d-b741-1685dba26bd6)
 
 Since this is a frontend-only implementation, all data is stored in the browser's localStorage.
